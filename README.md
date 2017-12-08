@@ -1,0 +1,2 @@
+# mysqlbinlog_rollback
+回滚mysqlDML操作的shell脚本
